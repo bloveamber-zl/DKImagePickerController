@@ -29,3 +29,5 @@
 "picker.select.maxLimitReached.error.title" = "Grænsen for antal billeder er nået";
 
 "picker.select.maxLimitReached.error.message" = "Du kan maksimalt tilføje %@ billeder";
+
+"picker.select.maxLimitReached.error.toast" = "yes";

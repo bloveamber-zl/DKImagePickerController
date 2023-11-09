@@ -29,3 +29,5 @@
 "picker.select.maxLimitReached.error.title" = "تصاویر کی مقررہ تعداد پوری ہوگئی";
 
 "picker.select.maxLimitReached.error.message" = "آپ %@ تصاویر منتخب کر سکتے ہیں";
+
+"picker.select.maxLimitReached.error.toast" = "yes";

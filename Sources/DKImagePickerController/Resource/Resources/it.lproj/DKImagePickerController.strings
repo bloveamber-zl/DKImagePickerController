@@ -29,3 +29,5 @@
 "picker.select.maxLimitReached.error.title" = "Raggiunto il numero massimo di foto";
 
 "picker.select.maxLimitReached.error.message" = "Puoi selezionare %@ elementi";
+
+"picker.select.maxLimitReached.error.toast" = "yes";

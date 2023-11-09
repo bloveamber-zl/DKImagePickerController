@@ -29,3 +29,5 @@
 "picker.select.maxLimitReached.error.title" = "Maksimum fotoğraf limitine ulaştınız.";
 
 "picker.select.maxLimitReached.error.message" = "%@ fotoğraf seçebilirsiniz.";
+
+"picker.select.maxLimitReached.error.toast" = "yes";

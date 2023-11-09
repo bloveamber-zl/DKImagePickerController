@@ -29,3 +29,5 @@
 "picker.select.maxLimitReached.error.title" = "最大数限制";
 
 "picker.select.maxLimitReached.error.message" = "你能选择%@项";
+
+"picker.select.maxLimitReached.error.toast" = "yes";

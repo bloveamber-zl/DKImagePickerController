@@ -29,3 +29,5 @@
 "picker.select.maxLimitReached.error.title" = "Số lượng ảnh đã đạt giới hạn";
 
 "picker.select.maxLimitReached.error.message" = "Bạn có thể chọn %@ mục";
+
+"picker.select.maxLimitReached.error.toast" = "yes";

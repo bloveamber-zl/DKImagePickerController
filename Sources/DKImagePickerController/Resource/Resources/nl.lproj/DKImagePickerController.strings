@@ -29,3 +29,5 @@
 "picker.select.maxLimitReached.error.title" = "Maximale fotolimiet is bereikt";
 
 "picker.select.maxLimitReached.error.message" = "U kunt nog %@ foto's kiezen";
+
+"picker.select.maxLimitReached.error.toast" = "yes";

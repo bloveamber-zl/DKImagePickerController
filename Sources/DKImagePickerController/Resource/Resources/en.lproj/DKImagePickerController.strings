@@ -31,3 +31,5 @@
 "picker.select.maxLimitReached.error.title" = "Max photos limit reached";
 
 "picker.select.maxLimitReached.error.message" = "You can select %@ items";
+
+"picker.select.maxLimitReached.error.toast" = "yes";

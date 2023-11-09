@@ -29,3 +29,5 @@
 "picker.select.maxLimitReached.error.title" = "Достигнут лимит фото";
 
 "picker.select.maxLimitReached.error.message" = "Вы можете выбрать %@ фото";
+
+"picker.select.maxLimitReached.error.toast" = "yes";

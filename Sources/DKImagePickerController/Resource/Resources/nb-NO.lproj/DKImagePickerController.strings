@@ -29,3 +29,5 @@
 "picker.select.maxLimitReached.error.title" = "Maks antall bilder er valgt";
 
 "picker.select.maxLimitReached.error.message" = "Du kan velge %@ elementer";
+
+"picker.select.maxLimitReached.error.toast" = "yes";
